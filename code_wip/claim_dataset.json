@@ -1,0 +1,27 @@
+[
+  {
+    "claim": "NASA confirms Earth will go dark for 6 days!",
+    "label": "fake",
+    "reference_answer": "NASA has never made such a claim. This is a widely circulated hoax that has been debunked multiple times."
+  },
+  {
+    "claim": "WHO declares monkeypox a global health emergency.",
+    "label": "real",
+    "reference_answer": "In July 2022, the World Health Organization declared monkeypox a public health emergency of international concern."
+  },
+  {
+    "claim": "COVID-19 vaccines contain microchips to track people.",
+    "label": "fake",
+    "reference_answer": "There is no evidence to support this conspiracy theory. COVID-19 vaccines are medically approved and do not contain microchips."
+  },
+  {
+    "claim": "India successfully lands Chandrayaan-3 near the Moon's south pole.",
+    "label": "real",
+    "reference_answer": "On August 23, 2023, ISRO's Chandrayaan-3 successfully landed on the lunar south pole, making India the first country to do so."
+  },
+  {
+    "claim": "5G networks caused the COVID-19 pandemic.",
+    "label": "fake",
+    "reference_answer": "There is no scientific basis for this claim. Viruses cannot be transmitted by radio waves or mobile networks."
+  }
+]

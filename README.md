@@ -41,7 +41,7 @@ python code/app.py
 - For blockchain: ensure RPC, contract address, and keys are set on the backend service that signs transactions; this client uses the hosted bridge.
 
 ## Architecture Snapshot
-Mermaid: see `code/architecture.mmd`. Generate fresh via:
+Mermaid: see `code/architecture.mmd`. Generate the fresh via:
 ```bash
 python code/architecture_diagram.py
 ```
